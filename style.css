@@ -1,0 +1,165 @@
+div {
+    display: block;
+    text-align: center;
+    background-color: black;   
+}
+
+#title {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace
+    font-weight: lighter;
+    color: white;
+}
+
+#id-img {
+    display: flex;
+}
+
+#id-image {
+    width: 200px;
+    height: auto;
+}
+
+.responsive {
+    border: 2px solid white;
+    padding: 10px;
+    border-image: 10px round;
+    object-fit: fill;
+}
+
+h1 {
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+    font-family: 'Courier New', Courier, monospace
+}
+
+h2 {
+    font-size: xx-large;
+    text-align: center;
+    color: white;
+}
+
+#about-title {
+    font-size: medium;
+    text-align: left;
+    color: white;
+}
+
+#about-info {
+    font-size: small;
+    text-align: left;
+    color: white;
+}
+
+#info-title1 {
+    font-size: medium;
+    text-align: left;
+    font-weight: bold;
+    color: white;
+}
+
+#second-info {
+    font-size: small;
+    text-align: left;
+    color: white;
+}
+
+#italic {
+    display: flex;
+    text-align: center;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    width: 500px;
+    height: 100px;
+    padding: 10px -10px 10px 10px;
+    border: 2px solid black;
+    margin: auto;
+    color: white;
+}
+
+#third-info {
+    text-align: left;
+    font-size: small;
+    color: white;
+}
+
+#info-title2 {
+    font-size: medium;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+}
+
+#last-info {
+    font-size: small;
+    text-align: left;
+    color: white;
+}
+
+
+h3 {
+    font-size: x-large;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+#success-title {
+    font-size: medium;
+    text-align: left;
+    font-weight: bold;
+    color: white;
+}
+
+#success-info {
+    font-size: small;
+    text-align: left;
+    color: white;
+}
+
+#bold-title2 {
+    font-size: medium;
+    text-align: left;
+    font-weight: bold;
+    color: white;
+}
+
+#success-info2 {
+    font-size: small;
+    text-align: left;
+    color: white;
+}
+
+h4 {
+    font-size: xx-large;
+    color: white;
+}
+
+#about-title {
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration: underline;
+    color: white;
+}
+
+#tribute-info {
+    color: white;
+    font-size: medium;
+}
+
+a {
+    font-weight: bolder;
+    display: block;
+    text-align: center;
+    text-shadow: 0cqw;
+    color: white;
+}
+
+a:hover {
+    background-color: paleturquoise;
+    -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
+}
